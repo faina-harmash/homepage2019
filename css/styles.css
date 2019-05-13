@@ -1,3 +1,7 @@
+.avatar-wrapper {
+    padding-top: 20px;
+}
+
 .avatar {
     max-width: 11rem;
 }
